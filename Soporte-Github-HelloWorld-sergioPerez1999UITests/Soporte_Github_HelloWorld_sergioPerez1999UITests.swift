@@ -1,13 +1,13 @@
 //
-//  Support_GitHub_HelloWorldUITests.swift
-//  Support-GitHub-HelloWorldUITests
+//  Soporte_Github_HelloWorld_sergioPerez1999UITests.swift
+//  Soporte-Github-HelloWorld-sergioPerez1999UITests
 //
-//  Created by Ignasi Perez-Valls on 10/7/23.
+//  Created by Pérez Cubedo Sergio on 11/7/23.
 //
 
 import XCTest
 
-final class Support_GitHub_HelloWorldUITests: XCTestCase {
+final class Soporte_Github_HelloWorld_sergioPerez1999UITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
